@@ -1,0 +1,21 @@
+# macOS and editors
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# Secrets and local environment
+.env
+.env.*
+!.env.example
+
+# Generated caches and dependencies
+__pycache__/
+*.py[cod]
+node_modules/
+dist/
+build/
+
+# Local server and test output
+*.log
+coverage/

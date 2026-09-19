@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://marius93rm.github.io/sitemap.xml
